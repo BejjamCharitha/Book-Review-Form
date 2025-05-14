@@ -13,6 +13,6 @@ A simple and responsive HTML5 web form that allows users to submit book reviews.
 
 ## 🚀 How to Run
 
-1. Clone the repository or download the `book-review.html` file:
+1. Clone the repository or download the `book-review-form.html` file:
    ```bash
-   git clone https://github.com/your-username/bookbuddy-review-form.git
+   https://github.com/BejjamCharitha/Book-Review-Form/blob/main/Book%20Review%20Form.html
